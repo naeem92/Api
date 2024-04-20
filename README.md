@@ -1,14 +1,14 @@
 # Lahore Weather Using Rest Api
-<img src = "https://github.com/naeem92/Weather_Web_Api-/blob/main/public/Images/Lahore.png">
+<img src = "https://github.com/naeem92/Weather_Web_Using_Api/blob/main/public/Images/Lahore.png">
 
 # Islamabad Weather Using Rest Api
-<img src = "https://github.com/naeem92/Weather_Web_Api-/blob/main/public/Images/Islamabad.png">
+<img src = "https://github.com/naeem92/Weather_Web_Using_Api/blob/main/public/Images/Islamabad.png">
 
 # Mumbai Weather Using Rest Api
-<img src = "https://github.com/naeem92/Weather_Web_Api-/blob/main/public/Images/Mumbai.png">
+<img src = "https://github.com/naeem92/Weather_Web_Using_Api/blob/main/public/Images/Mumbai.png">
 
 # Narowal Weather Using Rest Api
-<img src = "https://github.com/naeem92/Weather_Web_Api-/blob/main/public/Images/Narowal.png">
+<img src = "https://github.com/naeem92/Weather_Web_Using_Api/blob/main/public/Images/Narowal.png">
 
 # Use Icon  
 For Icons Link [https://erikflowers.github.io/weather-icons/]
